@@ -1,0 +1,13 @@
+D:\Tugas\Semester 2\Pemrograman\Polymorphism Interface\Polymorphism Interface\bin\Debug\netcoreapp3.1\Polymorphism Interface.exe
+D:\Tugas\Semester 2\Pemrograman\Polymorphism Interface\Polymorphism Interface\bin\Debug\netcoreapp3.1\Polymorphism Interface.deps.json
+D:\Tugas\Semester 2\Pemrograman\Polymorphism Interface\Polymorphism Interface\bin\Debug\netcoreapp3.1\Polymorphism Interface.runtimeconfig.json
+D:\Tugas\Semester 2\Pemrograman\Polymorphism Interface\Polymorphism Interface\bin\Debug\netcoreapp3.1\Polymorphism Interface.runtimeconfig.dev.json
+D:\Tugas\Semester 2\Pemrograman\Polymorphism Interface\Polymorphism Interface\bin\Debug\netcoreapp3.1\Polymorphism Interface.dll
+D:\Tugas\Semester 2\Pemrograman\Polymorphism Interface\Polymorphism Interface\bin\Debug\netcoreapp3.1\Polymorphism Interface.pdb
+D:\Tugas\Semester 2\Pemrograman\Polymorphism Interface\Polymorphism Interface\obj\Debug\netcoreapp3.1\Polymorphism Interface.csprojAssemblyReference.cache
+D:\Tugas\Semester 2\Pemrograman\Polymorphism Interface\Polymorphism Interface\obj\Debug\netcoreapp3.1\Polymorphism Interface.csproj.CoreCompileInputs.cache
+D:\Tugas\Semester 2\Pemrograman\Polymorphism Interface\Polymorphism Interface\obj\Debug\netcoreapp3.1\Polymorphism Interface.AssemblyInfoInputs.cache
+D:\Tugas\Semester 2\Pemrograman\Polymorphism Interface\Polymorphism Interface\obj\Debug\netcoreapp3.1\Polymorphism Interface.AssemblyInfo.cs
+D:\Tugas\Semester 2\Pemrograman\Polymorphism Interface\Polymorphism Interface\obj\Debug\netcoreapp3.1\Polymorphism Interface.dll
+D:\Tugas\Semester 2\Pemrograman\Polymorphism Interface\Polymorphism Interface\obj\Debug\netcoreapp3.1\Polymorphism Interface.pdb
+D:\Tugas\Semester 2\Pemrograman\Polymorphism Interface\Polymorphism Interface\obj\Debug\netcoreapp3.1\Polymorphism Interface.genruntimeconfig.cache
